@@ -1,0 +1,13 @@
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.exe
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.deps.json
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.runtimeconfig.json
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.runtimeconfig.dev.json
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.dll
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\bin\Debug\netcoreapp3.1\dotnetassessment.pdb
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.csprojAssemblyReference.cache
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.AssemblyInfoInputs.cache
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.AssemblyInfo.cs
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.csproj.CoreCompileInputs.cache
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.dll
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.pdb
+C:\Users\kamakshi_pulla\source\repos\FSDdotnet\dotnetassessment\obj\Debug\netcoreapp3.1\dotnetassessment.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+﻿Id,  Name, Class, Section
+123, Mary, 1st, A
+345, Charl,2nd, B
+567, Bhawna,3nd, C
+789, Guru,4th, A
+901, David, 5th, B
